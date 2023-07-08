@@ -45,3 +45,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/giselle-marques-santos-1b2349144/?locale=en_US)](https://www.linkedin.com/in/giselle-marques-santos-1b2349144/?locale=en_US)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://www.instagram.com/gih_marquesss/)](https://www.instagram.com/gih_marquesss/)
   
+
+
+[comment]: <> (Icons used in img Shields: https://simpleicons.org/)
+[comment]: <> (Github Emoji Picker: https://github-emoji-picker.rickstaa.dev/)
